@@ -1,0 +1,12 @@
+.product {
+    text-align: left;
+}
+
+.product>.image {
+    width: 100px;
+    margin-right: 10px;
+}
+
+.product > .content {
+    height: 100px;
+}

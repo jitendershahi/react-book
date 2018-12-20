@@ -1,0 +1,6 @@
+.idea
+**/node_modules
+reports/
+tests_output/
+npm-debug.log.*
+voting-app/.idea/misc.xml
